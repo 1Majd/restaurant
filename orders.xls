@@ -1,0 +1,61 @@
+
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>No.</th>
+                    <th>Food Name</th>
+                    <th>Price</th>
+                    <th>Quantity</th>
+                    <th>Total</th>
+                    <th>Order Date</th>
+                    <th>Status</th>
+                    <th>Customer Name</th>
+                    <th>Contact</th>
+                    <th>Email</th>
+                    <th>Address</th>
+                </tr>
+            </thead>
+            <tbody>
+    
+            <tr>
+                <td>1</td>
+                <td>piporoni</td>
+                <td>20.00</td>
+                <td>4</td>
+                <td>80.00</td>
+                <td>2024-07-31 17:01:57</td>
+                <td>Pending</td>
+                <td>product id</td>
+                <td>mmm</td>
+                <td>majdmhanna068@gmail.com</td>
+                <td>Rachaya</td>
+            </tr>
+        
+            <tr>
+                <td>2</td>
+                <td>llllll</td>
+                <td>9000.00</td>
+                <td>2</td>
+                <td>18,000.00</td>
+                <td>2024-07-31 16:54:37</td>
+                <td>Pending</td>
+                <td>majd mhanna</td>
+                <td>bbbb</td>
+                <td>22130745@students.liu.edu.lb</td>
+                <td>Rachaya</td>
+            </tr>
+        
+            <tr>
+                <td>3</td>
+                <td>piporoni</td>
+                <td>20.00</td>
+                <td>2</td>
+                <td>40.00</td>
+                <td>2024-07-31 16:54:37</td>
+                <td>Pending</td>
+                <td>majd mhanna</td>
+                <td>bbbb</td>
+                <td>22130745@students.liu.edu.lb</td>
+                <td>Rachaya</td>
+            </tr>
+        </tbody></table>
